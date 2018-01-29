@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Program" max_length="40" name="x_182493_projectma_program" sizeclass="1" type="collection">
+        <element choice="3" default="162222" label="Location" max_length="40" name="locationid" type="integer">
+            <choice>
+                <element label="Maslak" value="162221"/>
+                <element label="Şekerpınar" value="162222"/>
+            </choice>
+        </element>
+        <element choice="3" default="2" label="RDType" max_length="40" name="rdtype" type="integer">
+            <choice>
+                <element label="Arge" value="1"/>
+                <element label="NoneArge" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

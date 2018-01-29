@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="SummaryProject" max_length="40" name="x_182493_projectma_summaryproject" type="collection">
+        <element label="ProgramId" mandatory="true" max_length="32" name="programid" reference="x_182493_projectma_program" type="reference"/>
+        <element choice="3" default="2" label="RDType" max_length="40" name="rdtype" read_only="true" type="integer">
+            <choice>
+                <element label="Arge" value="1"/>
+                <element label="NoneArge" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

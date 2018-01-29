@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rdtype" table="x_182493_projectma_summaryproject" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rdtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arge</label>
+            <language>en</language>
+            <name>x_182493_projectma_summaryproject</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 08:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>099ee64bdb7303001a5b5d50cf961997</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 08:34:08</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rdtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NoneArge</label>
+            <language>en</language>
+            <name>x_182493_projectma_summaryproject</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 08:34:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49aea64bdb7303001a5b5d50cf96196c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 08:34:20</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rdtype</element>
+            <name>x_182493_projectma_summaryproject</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 08:34:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3caee64bdb7303001a5b5d50cf9619ae</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>rdtype</sys_name>
+            <sys_package display_value="ProjectManagement" source="x_182493_projectma">9af4e643db7303001a5b5d50cf961960</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ProjectManagement">9af4e643db7303001a5b5d50cf961960</sys_scope>
+            <sys_update_name>sys_choice_x_182493_projectma_summaryproject_rdtype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 08:34:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

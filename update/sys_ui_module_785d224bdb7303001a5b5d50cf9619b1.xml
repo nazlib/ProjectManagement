@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SummaryProject">b85d224bdb7303001a5b5d50cf9619af</application>
+        <filter/>
+        <name>SummaryProjects</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_182493_projectma.summaryproject_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-26 08:28:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>785d224bdb7303001a5b5d50cf9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SummaryProjects</sys_name>
+        <sys_package display_value="ProjectManagement" source="x_182493_projectma">9af4e643db7303001a5b5d50cf961960</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ProjectManagement">9af4e643db7303001a5b5d50cf961960</sys_scope>
+        <sys_update_name>sys_ui_module_785d224bdb7303001a5b5d50cf9619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-26 08:28:21</sys_updated_on>
+        <table>x_182493_projectma_summaryproject</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
